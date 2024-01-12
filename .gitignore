@@ -1,0 +1,5 @@
+# Ignore target directories
+target/
+
+# Ignore .project files
+.project
